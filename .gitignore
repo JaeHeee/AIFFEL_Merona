@@ -2,3 +2,8 @@
 data/
 .ipynb_checkpoints/
 .vscode/
+*.pickle
+*.pkl
+*.csv
+submission/
+model/
