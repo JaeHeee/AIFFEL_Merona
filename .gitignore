@@ -4,3 +4,4 @@ data/
 .vscode/
 *.pickle
 *.pkl
+*.csv
