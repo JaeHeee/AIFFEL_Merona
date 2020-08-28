@@ -2,3 +2,10 @@
 data/
 .ipynb_checkpoints/
 .vscode/
+*.pickle
+*.pkl
+*.csv
+model/
+submission/
+*.zip/
+catboost_info/
