@@ -8,3 +8,4 @@ data/
 model/
 submission/
 *.zip/
+catboost_info/
