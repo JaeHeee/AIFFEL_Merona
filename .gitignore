@@ -5,3 +5,5 @@ data/
 *.pickle
 *.pkl
 *.csv
+model/
+submission/
